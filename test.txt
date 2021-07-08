@@ -1,1 +1,1 @@
-test test /jjc80
+test test /jjc
